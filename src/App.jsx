@@ -5,6 +5,7 @@ import appData from './assets/data/owner_information';
 import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
+import More from './components/More';
 
 export default class App extends Component {
   state = appData;
@@ -15,6 +16,7 @@ export default class App extends Component {
         <Header />
         <About />
         <Projects />
+        <More />
       </div>
     )
   }

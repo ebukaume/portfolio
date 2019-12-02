@@ -32,6 +32,16 @@ a {
   }
 }
 
+.hover--item {
+  &:active,
+  &:focus,
+  &:hover {
+    transform: translateY(-3px);
+    border-color: transparent;
+    box-shadow: 0 1px 6px rgba(93,93,93,.16);
+  }
+}
+
 .nav {
   padding: 2em 0 .5em;
 }
@@ -114,7 +124,6 @@ a {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  padding-bottom: 4em;
 }
 
 .project {
@@ -152,6 +161,51 @@ a {
   font-weight: 400;
 }
 
+.more {
+  background-color: $color-mesh;
+  margin-top: 1em;
+  padding: 2em 0;
+}
+
+.more__title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.more__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+  border-bottom: 1px solid #dadada;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(218, 218, 218);
+}
+
+.more__item--title {
+  color: $color-primary;
+  letter-spacing: 0;
+  font-size: 1.6rem;
+  font-weight: 300;
+  width: 40%;
+}
+
+.more__item--category,
+.more__item--date {
+  font-weight: 300;
+  font-size: 1.1rem;
+  margin-left: 1rem;
+  width: 33%;
+  text-align: center;
+}
+
+.more__item--date {
+  width: 10%;
+}
+
 @media screen and (min-width: 768px) {
   .projects {
     width: 47%;
@@ -165,7 +219,6 @@ a {
   }
   
   .projects__container {
-    padding-bottom: 8em;
     padding-left: 15px;
     padding-right: 15px;
   }
@@ -176,5 +229,10 @@ a {
 
   .project-link {
     flex: 0 0 50%;
+  }
+
+  .more {
+    margin-top: 2em;
+    padding: 4em 0;
   }
 }
