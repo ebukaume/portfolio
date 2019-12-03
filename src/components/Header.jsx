@@ -1,15 +1,17 @@
 import React from 'react';
-import profilePicture from '../assets/images/profile_picture.jpeg';
+import profilePicture from '../assets/images/profile_picture_2.jpeg';
 
 const Header = () => (
   <nav className="nav" id="_">
     <div className="nav__container">
       <div className="nav__brand">
-        <img
-          className="nav__brand-image hoverable"
-          src={profilePicture}
-          alt="profile"
-        />
+        <a href="#_">
+          <img
+            className="nav__brand-image"
+            src={profilePicture}
+            alt="profile"
+          />
+        </a>
       </div>
       <ul className="nav__list">
         <a href="#projects">
