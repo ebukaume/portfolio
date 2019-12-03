@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePicture from '../assets/images/profile_picture.jpeg';
+import profilePicture from '../assets/images/profile_picture_2.jpeg';
 
 const Header = () => (
   <nav className="nav" id="_">
