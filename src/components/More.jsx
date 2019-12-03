@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default () => (
-  <section className='more' id='contributions'>
+const More = () => (
+  <section className="more" id="contributions">
     <div className="container">
       <h2
         className="secondary-header more__title"
@@ -11,11 +11,11 @@ export default () => (
     </div>
     <div className="more__list">
       <div className="hover--item">
-        <a 
+        <a
           className="more__item "
-          href='https://link.medium.com/a9Ptmvbq61'
-          target='_blank'
-          rel='noopener noreferrer'
+          href="https://link.medium.com/a9Ptmvbq61"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <h3 className="more__item--title">
             Understanding Recursion - with Practical Examples
@@ -29,11 +29,11 @@ export default () => (
         </a>
       </div>
       <div className="hover--item">
-        <a 
+        <a
           className="more__item "
-          href='https://github.com/TheOdinProject/curriculum/pull/11529'
-          target='_blank'
-          rel='noopener noreferrer'
+          href="https://github.com/TheOdinProject/curriculum/pull/11529"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <h3 className="more__item--title">
             The Odin Project
@@ -47,11 +47,11 @@ export default () => (
         </a>
       </div>
       <div className="hover--item">
-        <a 
+        <a
           className="more__item "
-          href='https://github.com/microverseinc/linters-config/pull/17'
-          target='_blank'
-          rel='noopener noreferrer'
+          href="https://github.com/microverseinc/linters-config/pull/17"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <h3 className="more__item--title">
             Microverse Inc.
@@ -65,11 +65,11 @@ export default () => (
         </a>
       </div>
       <div className="hover--item">
-        <a 
+        <a
           className="more__item "
-          href='https://github.com/microverseinc/linters-config/pull/19'
-          target='_blank'
-          rel='noopener noreferrer'
+          href="https://github.com/microverseinc/linters-config/pull/19"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <h3 className="more__item--title">
             Microverse Inc.
@@ -84,4 +84,6 @@ export default () => (
       </div>
     </div>
   </section>
-)
+);
+
+export default More;

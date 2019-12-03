@@ -1,23 +1,25 @@
 import React from 'react';
 import microverseLogo from '../assets/images/microverse.jpeg';
 
-export default () => (
-  <section className='hero'>
+const About = () => (
+  <section className="hero">
     <div className="container">
       <h1 className="hero__title">
-        I'm
-        <a href='https://www.linkedin.com/in/ebukaume'
-          className='hero__link hover--secondary'
-          target='_blank'
-          rel='noopener noreferrer'
+        I&apos;m
+        <a
+          href="https://www.linkedin.com/in/ebukaume"
+          className="hero__link hover--secondary"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           &nbsp;Ebuka Umeokonkwo
-        </a>, 
-        a
-        <a href='http://github.com/ebukaume'
-          className='hero__link hover--secondary'
-          target='_blank'
-          rel='noopener noreferrer'
+        </a>
+        , a
+        <a
+          href="http://github.com/ebukaume"
+          className="hero__link hover--secondary"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           &nbsp;full-stack developer&nbsp;
         </a>
@@ -30,12 +32,13 @@ export default () => (
           <h3 className="employer__label">
             currently:
           </h3>
-          <a href='https://www.microverse.org/'
-            target='_blank'
-            rel='noopener noreferrer'
-           >
+          <a
+            href="https://www.microverse.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
-              className='employer__logo'
+              className="employer__logo"
               src={microverseLogo}
               alt="microverse"
             />
@@ -45,3 +48,5 @@ export default () => (
     </div>
   </section>
 );
+
+export default About;

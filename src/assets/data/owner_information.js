@@ -5,14 +5,14 @@ export default {
     name: 'Ebuka Umeokonkwo',
     image: picture,
     desc: 'full-stack developer',
-    skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'React', 'Redux', 'Ruby', 'Rails']
+    skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'React', 'Redux', 'Ruby', 'Rails'],
   },
   projects: [
     {
       image: '',
       live_link: '',
       source_link: '',
-      stack: ['', '', '', '']
-    }
-  ]
-}
+      stack: ['', '', '', ''],
+    },
+  ],
+};

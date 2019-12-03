@@ -1,17 +1,17 @@
-import React from 'react'
+import React from 'react';
 import profilePicture from '../assets/images/profile_picture.jpeg';
 
-export default () => (
-  <nav className='nav' id='_'>
-    <div className='nav__container'>
-      <div className='nav__brand'>
+const Header = () => (
+  <nav className="nav" id="_">
+    <div className="nav__container">
+      <div className="nav__brand">
         <img
-          className='nav__brand-image hoverable'
+          className="nav__brand-image hoverable"
           src={profilePicture}
-          alt='profile'
+          alt="profile"
         />
       </div>
-      <ul className='nav__list'>
+      <ul className="nav__list">
         <a href="#projects">
           <li className="nav__list-item hoverable hover--primary">Projects</li>
         </a>
@@ -24,4 +24,6 @@ export default () => (
       </ul>
     </div>
   </nav>
-)
+);
+
+export default Header;
