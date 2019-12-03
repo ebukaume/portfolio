@@ -5,7 +5,7 @@ const Header = () => (
   <nav className="nav" id="_">
     <div className="nav__container">
       <div className="nav__brand">
-        <a href="/">
+        <a href="#_">
           <img
             className="nav__brand-image"
             src={profilePicture}
