@@ -5,11 +5,13 @@ const Header = () => (
   <nav className="nav" id="_">
     <div className="nav__container">
       <div className="nav__brand">
-        <img
-          className="nav__brand-image hoverable"
-          src={profilePicture}
-          alt="profile"
-        />
+        <a href="/">
+          <img
+            className="nav__brand-image"
+            src={profilePicture}
+            alt="profile"
+          />
+        </a>
       </div>
       <ul className="nav__list">
         <a href="#projects">
