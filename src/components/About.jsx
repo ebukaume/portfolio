@@ -21,7 +21,7 @@ export default () => (
         >
           &nbsp;full-stack developer&nbsp;
         </a>
-        living in Lagos and currently a part-time TSE at Microverse.
+        living in Lagos, Nigeria and currently a part-time TSE at Microverse.
       </h1>
     </div>
     <div className="container">
