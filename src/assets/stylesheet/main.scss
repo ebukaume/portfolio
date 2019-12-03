@@ -206,6 +206,43 @@ a {
   width: 10%;
 }
 
+.footer {
+  padding: 2em 0 3em;
+}
+
+.cv__link {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  font-weight: 200;
+  color: #29c6b2;
+  transition: color .25s ease;
+  text-decoration: none;
+}
+
+.social {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  max-width: 1400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.social__item {
+  width: 40px;
+}
+
+.top {
+  width: 30px;
+  border-radius: 50%;
+  background: $color-primary;
+  padding: 5px;
+  position: fixed;
+  top: 88%;
+  left: 94%
+}
+
 @media screen and (min-width: 768px) {
   .projects {
     width: 47%;
@@ -234,5 +271,13 @@ a {
   .more {
     margin-top: 2em;
     padding: 4em 0;
+  }
+  
+  .footer {
+    padding: 3em 0;
+  }
+
+  .social {
+    width: 50%;
   }
 }

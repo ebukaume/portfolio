@@ -5,7 +5,7 @@ import bookstore from '../assets/images/bookstore.png';
 import bookstoreAPI from '../assets/images/bookstore-api.png';
 
 export default () => (
-  <section>
+  <section id='projects'>
     <div className="container">
       <h2 className="secondary-header">
       Featured Works

@@ -6,6 +6,8 @@ import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
 import More from './components/More';
+import Footer from './components/Footer';
+import Top from './components/Top';
 
 export default class App extends Component {
   state = appData;
@@ -17,6 +19,8 @@ export default class App extends Component {
         <About />
         <Projects />
         <More />
+        <Footer />
+        <Top />
       </div>
     )
   }

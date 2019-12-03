@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default () => (
-  <section className='more'>
+  <section className='more' id='contributions'>
     <div className="container">
       <h2
         className="secondary-header more__title"
