@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b558d271fa1a0385a303bc63335840c4",
+    "revision": "a24ac0697ef4f1eaae56643a3dc88e0c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "407bfb8557a67b956d2b",
-    "url": "/portfolio/static/css/main.07003a4d.chunk.css"
+    "revision": "b6bface4819683305600",
+    "url": "/portfolio/static/css/main.9b208def.chunk.css"
   },
   {
-    "revision": "52c711b7c2696f62a8e5",
-    "url": "/portfolio/static/js/2.548a4dcc.chunk.js"
+    "revision": "566e14db13bdef59d9fb",
+    "url": "/portfolio/static/js/2.528e97b9.chunk.js"
   },
   {
-    "revision": "407bfb8557a67b956d2b",
-    "url": "/portfolio/static/js/main.631b0ebf.chunk.js"
+    "revision": "b6bface4819683305600",
+    "url": "/portfolio/static/js/main.323bef80.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -52,8 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/microverse.f9579efa.jpeg"
   },
   {
-    "revision": "ffba1c0838825777c3311a770324fe3b",
-    "url": "/portfolio/static/media/profile_picture_2.ffba1c08.jpeg"
+    "revision": "20bf44192e984f4e0612ff34e75e491b",
+    "url": "/portfolio/static/media/portfolio.20bf4419.png"
+  },
+  {
+    "revision": "0e5e2d2c1e161eef186b93fa17f09513",
+    "url": "/portfolio/static/media/profile_picture.0e5e2d2c.jpg"
   },
   {
     "revision": "f681cd5f2897114e3d1521439e2e7f9b",
@@ -70,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be06689853aec102607f5e54e6fd2dfa",
     "url": "/portfolio/static/media/twitter.be066898.svg"
+  },
+  {
+    "revision": "e01fdbb3a5a93cac1d0c8d3494df6c11",
+    "url": "/portfolio/static/media/video-rental-api.e01fdbb3.png"
   }
 ]);
