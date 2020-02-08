@@ -13,6 +13,24 @@ const More = () => (
       <div className="hover--item">
         <a
           className="more__item "
+          href="https://medium.com/@ebukaume/backtracking-the-simple-way-66e3a84514d5"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h3 className="more__item--title">
+            Backtracking — The simple way
+          </h3>
+          <div className="more__item--category">
+            Article
+          </div>
+          <div className="more__item--date">
+            2020
+          </div>
+        </a>
+      </div>
+      <div className="hover--item">
+        <a
+          className="more__item "
           href="https://link.medium.com/a9Ptmvbq61"
           target="_blank"
           rel="noopener noreferrer"
