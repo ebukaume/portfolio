@@ -1,5 +1,5 @@
 import React from 'react';
-import microverseLogo from '../assets/images/microverse.jpeg';
+import microverseLogo from '../assets/images/microverse.png';
 
 const About = () => (
   <section className="hero">
