@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9b208def.chunk.css",
-    "main.js": "/portfolio/static/js/main.feeae2a1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.feeae2a1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.33c3ac80.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.33c3ac80.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
     "static/js/2.528e97b9.chunk.js": "/portfolio/static/js/2.528e97b9.chunk.js",
     "static/js/2.528e97b9.chunk.js.map": "/portfolio/static/js/2.528e97b9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.55cfc8ee7549d2ed36c510f5b6a9f3fb.js": "/portfolio/precache-manifest.55cfc8ee7549d2ed36c510f5b6a9f3fb.js",
+    "precache-manifest.e233021de94aab310909e0937794ee14.js": "/portfolio/precache-manifest.e233021de94aab310909e0937794ee14.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.9b208def.chunk.css.map": "/portfolio/static/css/main.9b208def.chunk.css.map",
     "static/media/UMEOKONKWO EBUKA'S CV.pdf": "/portfolio/static/media/UMEOKONKWO EBUKA'S CV.a642f4a5.pdf",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.86a05020.js",
     "static/js/2.528e97b9.chunk.js",
     "static/css/main.9b208def.chunk.css",
-    "static/js/main.feeae2a1.chunk.js"
+    "static/js/main.33c3ac80.chunk.js"
   ]
 }
