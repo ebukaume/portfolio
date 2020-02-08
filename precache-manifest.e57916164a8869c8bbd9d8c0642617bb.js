@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a06ae3ec4188aa26f9f6987b6a49e8d3",
+    "revision": "f3b59d7ac61a6ff2d59cc906b664dafc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "59d9c562cb7f2212cbc1",
+    "revision": "588894e4dcefd398ca96",
     "url": "/portfolio/static/css/main.9b208def.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.528e97b9.chunk.js"
   },
   {
-    "revision": "59d9c562cb7f2212cbc1",
-    "url": "/portfolio/static/js/main.8c5737aa.chunk.js"
+    "revision": "588894e4dcefd398ca96",
+    "url": "/portfolio/static/js/main.a5078524.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
     "url": "/portfolio/static/js/runtime-main.86a05020.js"
   },
   {
-    "revision": "76d8bba02a9973c531a6175594a1b552",
-    "url": "/portfolio/static/media/UMEOKONKWO EBUKA'S CV.76d8bba0.pdf"
+    "revision": "a642f4a518fb6b2d317d8470f0ebd3b1",
+    "url": "/portfolio/static/media/UMEOKONKWO EBUKA'S CV.a642f4a5.pdf"
   },
   {
     "revision": "95bda11f89cf96c193d05b3eb1cef3a7",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/linkedin.619231ff.svg"
   },
   {
-    "revision": "f9579efae8d81a00bacede010c2f4bd8",
-    "url": "/portfolio/static/media/microverse.f9579efa.jpeg"
+    "revision": "666cfa823090f1f8aa1e84ad86f7884a",
+    "url": "/portfolio/static/media/microverse.666cfa82.jpeg"
   },
   {
     "revision": "20bf44192e984f4e0612ff34e75e491b",

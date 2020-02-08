@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9b208def.chunk.css",
-    "main.js": "/portfolio/static/js/main.8c5737aa.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8c5737aa.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a5078524.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a5078524.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
     "static/js/2.528e97b9.chunk.js": "/portfolio/static/js/2.528e97b9.chunk.js",
     "static/js/2.528e97b9.chunk.js.map": "/portfolio/static/js/2.528e97b9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ab9b97279b82973023eb181a9a1830ee.js": "/portfolio/precache-manifest.ab9b97279b82973023eb181a9a1830ee.js",
+    "precache-manifest.e57916164a8869c8bbd9d8c0642617bb.js": "/portfolio/precache-manifest.e57916164a8869c8bbd9d8c0642617bb.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.9b208def.chunk.css.map": "/portfolio/static/css/main.9b208def.chunk.css.map",
-    "static/media/UMEOKONKWO EBUKA'S CV.pdf": "/portfolio/static/media/UMEOKONKWO EBUKA'S CV.76d8bba0.pdf",
+    "static/media/UMEOKONKWO EBUKA'S CV.pdf": "/portfolio/static/media/UMEOKONKWO EBUKA'S CV.a642f4a5.pdf",
     "static/media/bookstore-api.png": "/portfolio/static/media/bookstore-api.95bda11f.png",
     "static/media/bookstore.png": "/portfolio/static/media/bookstore.2985f23c.png",
     "static/media/facebook.png": "/portfolio/static/media/facebook.5689c7fd.png",
     "static/media/github.svg": "/portfolio/static/media/github.617870e4.svg",
     "static/media/gmail.svg": "/portfolio/static/media/gmail.b986b4fd.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.619231ff.svg",
-    "static/media/microverse.jpeg": "/portfolio/static/media/microverse.f9579efa.jpeg",
+    "static/media/microverse.jpeg": "/portfolio/static/media/microverse.666cfa82.jpeg",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.20bf4419.png",
     "static/media/profile_picture.jpg": "/portfolio/static/media/profile_picture.0e5e2d2c.jpg",
     "static/media/stackoverflow.svg": "/portfolio/static/media/stackoverflow.f681cd5f.svg",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.86a05020.js",
     "static/js/2.528e97b9.chunk.js",
     "static/css/main.9b208def.chunk.css",
-    "static/js/main.8c5737aa.chunk.js"
+    "static/js/main.a5078524.chunk.js"
   ]
 }
