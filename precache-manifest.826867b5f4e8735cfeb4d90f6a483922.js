@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81956cefcfedb92e0702bcad63c56137",
+    "revision": "f0dd02cc1a93025304d939ae037255d2",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b44fb0fad044da7ce2a4",
+    "revision": "84dd9e83d65cde9d1f00",
     "url": "/portfolio/static/css/main.9b208def.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.528e97b9.chunk.js"
   },
   {
-    "revision": "b44fb0fad044da7ce2a4",
-    "url": "/portfolio/static/js/main.6882beed.chunk.js"
+    "revision": "84dd9e83d65cde9d1f00",
+    "url": "/portfolio/static/js/main.feeae2a1.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -49,7 +49,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3a42dccd5da69efbfc9d3c63fcf130ea",
-    "url": "/portfolio/static/media/microverse.3a42dccd.jpeg"
+    "url": "/portfolio/static/media/microverse.3a42dccd.png"
   },
   {
     "revision": "20bf44192e984f4e0612ff34e75e491b",
